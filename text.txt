@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 182E-1B2C
+
+ Directory of C:\Users\PReddy\Desktop\reddy
+
+15-05-2022  10:05 PM    <DIR>          .
+15-05-2022  10:05 PM    <DIR>          ..
+15-05-2022  10:05 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  166,079,545,344 bytes free
